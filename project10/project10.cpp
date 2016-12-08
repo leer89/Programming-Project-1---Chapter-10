@@ -36,7 +36,7 @@ int main()
 	s.grade = getLetter(s.average);
 	cout << "Semester average: " << s.average << endl;
 	cout << "Final Grade: " << s.grade << endl;
-	cout << "Randy Lee /// Programming Project 10" << endl;
+	cout << "Randy Lee /// Programming Project 1 - Chapter 10" << endl;
 	system("pause");
 
 	return 0;
